@@ -1,4 +1,3 @@
-# hrslabs.github.io
 # HRS Labs
 
 Official website for HRS Labs.
